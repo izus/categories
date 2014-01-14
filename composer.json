@@ -1,0 +1,8 @@
+{
+        "name": "izus/Categories",
+        "description": "Categories Plugin for CakePHP",
+        "type": "cakephp-plugin",
+        "require": {
+                "php": ">=5.3.0"
+        }
+}
